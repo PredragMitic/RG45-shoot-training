@@ -26,3 +26,6 @@ make
 ./shoot_training 
 start
 ```
+
+
+![kraj](https://github.com/MATF-RG19/RG45-shoot-training/blob/master/Screenshots/07-kraj.gif)
